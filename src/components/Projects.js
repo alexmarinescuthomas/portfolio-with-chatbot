@@ -28,7 +28,7 @@ const Projects = () => {
             description: "Uses the Naive Bayes categorical classification algorithm in ReactJS to statistically pick the best response to a user's question about my experience, coding knowledge, etc.",
             imgUrl: chatbot,
             siteUrl: "",
-            codeUrl: ""
+            codeUrl: "https://github.com/alexmarinescuthomas/portfolio-with-chatbot"
         }
     ];
 
